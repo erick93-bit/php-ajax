@@ -1,7 +1,7 @@
 <?php
 
 $connection = mysqli_connect(
-  'localhost', 'root', 'password', 'tasks-database'
+  'localhost', 'root', '', 'tasks-app'
 );
 
 // for testing connection
